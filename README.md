@@ -1,3 +1,1 @@
-# izza
-
 BMI Calculator
